@@ -715,7 +715,7 @@ contract NTL is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = "NTLToken";
+    string private _name = "NTLT";
     string private _symbol = "NTL";
     uint8 private _decimals = 9;
     
